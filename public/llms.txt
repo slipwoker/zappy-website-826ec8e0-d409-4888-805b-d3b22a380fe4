@@ -1,0 +1,104 @@
+# Jerseytheworld — Generative Engine Optimization Map
+
+> An online sports apparel store specializing in football and basketball jerseys. The business focuses on selling official or replica sports shirts for fans and players, catering to the sports enthusiast market. The store likely carries a wide range of team jerseys from local and international leagues.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות חולצות כדורגל וכדורסל אונליין המובילה בישראל. מבחר עצום של חולצות רשמיות ורפליקות מליגות מקומיות ובינלאומיות. הזמן עכשיו והגע לשחק כמו הכוכבים!
+
+### מדריך ג'רזי
+https://example.com/jersey-guide
+המדריך המלא לבחירת חולצות כדורגל וכדורסל: מידות, חומרים, הבדל בין רשמי לרפליקה וטיפים לטיפול בג&#39;רזי שלך. כל מה שצריך לדעת לפני הקנייה!
+
+### אודות
+https://example.com/about
+Jerseytheworld נולדה מתוך אהבה אמיתית לספורט. גלה מי אנחנו, מה מניע אותנו ולמה אלפי אוהדי כדורגל וכדורסל בישראל בוחרים בנו שוב ושוב. הצטרף למשפחה!
+
+### צור קשר
+https://example.com/contact
+יש שאלה על חולצות כדורגל או כדורסל? צוות המומחים שלנו זמין לעזור בבחירת המידה, המועדון והסגנון הנכון. צור קשר עכשיו וקבל מענה מהיר ואישי!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Jerseytheworld
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Jerseytheworld
+
+### Category
+https://example.com/category/:slug
+מוצרים - Jerseytheworld
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Jerseytheworld
+An online sports apparel store specializing in football and basketball jerseys. The business focuses on selling official or replica sports shirts for fans and players, catering to the sports enthusiast market. The store likely carries a wide range of team jerseys from local and international leagues.
+
+## Services/Products
+- חולצות כדורגל
+- חולצות כדורסל
+
+## Target Audience
+- חובבי כדורגל ואספנים
+- חובבי כדורסל
+- קבוצות ספורט צעירות
+
+## Industry
+ספורט ואופנת ספורט
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
