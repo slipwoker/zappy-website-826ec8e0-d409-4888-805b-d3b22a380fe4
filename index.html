@@ -353,7 +353,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "826ec8e0-d409-4888-805b-d3b22a380fe4";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><nav class="navbar" dir="rtl">
+<script>window.ZAPPY_WEBSITE_ID = "826ec8e0-d409-4888-805b-d3b22a380fe4";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
@@ -847,10 +847,10 @@
 </script>
   
   <main>
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section" style="margin-top: -70px !important; padding-top: 70px !important;">
   <!-- Background Image -->
   <div class="index-hero-bg">
-    <img data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Dramatic cinematic sports arena scene: a dark stadium tunnel exit opening into a brilliantly floodlit pitch, with a single premium football jersey dramatically lit by stadium spotlights hanging center-frame, neon cyan and magenta edge lighting streaking across the frame, near-black atmospheric depth, grain texture, locker-room-to-pitch walk atmosphere, ultra-premium sports editorial photography style" width="1440" height="900" src="/assets/site-index-hero-image-1.webp" alt="מנהרת אצטדיון דרמטית עם תאורת זרקורים על חולצת כדורגל">
+    <img data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Dramatic cinematic sports arena scene: a dark stadium tunnel exit opening into a brilliantly floodlit pitch, with a single premium football jersey dramatically lit by stadium spotlights hanging center-frame, neon cyan and magenta edge lighting streaking across the frame, near-black atmospheric depth, grain texture, locker-room-to-pitch walk atmosphere, ultra-premium sports editorial photography style" width="1440" height="900" src="/assets/site-index-hero-image-1.webp" alt="מנהרת אצטדיון דרמטית עם תאורת זרקורים על חולצת כדורגל" data-hero-background="true" data-element-type="image" data-element-id="img-1778494339661-sr4c8znb2">
   </div>
 
   <!-- Vignette / Tunnel Arch Overlay -->
@@ -883,12 +883,12 @@
   <!-- Hero Content -->
   <div class="index-hero-container">
     <div class="index-hero-content">
-      <span class="index-hero-label">חולצות כדורגל וכדורסל</span>
-      <h1 class="index-hero-h1">הלבישו את<br><em class="index-hero-accent">הגדולה</em><br>שבתוככם</h1>
+      <p><span class="index-hero-label">חולצות כדורגל וכדורסל</span>
+      </p><h1 class="index-hero-h1" style="">Jerseytheworld-איכות לא מהעולם!</h1>
       <h3 class="index-hero-subtitle">חולצות רשמיות ורפליקות פרמיום לאוהדים, קולקציונרים וקבוצות נוער — מהמגרש ישירות אליכם</h3>
       <div class="index-hero-ctas">
-        <a href="/contact" class="index-hero-btn index-hero-btn--primary">לפרטים ורכישה</a>
-        <a href="/contact" class="index-hero-btn index-hero-btn--secondary">הזמנות לקבוצות</a>
+        <a href="/contact" class="index-hero-btn index-hero-btn--primary" data-element-type="button" data-element-id="btn-1778494339657-cadfn3ebc" data-native-element="true">לפרטים ורכישה</a>
+        <a href="/contact" class="index-hero-btn index-hero-btn--secondary" data-element-type="button" data-element-id="btn-1778494339657-y7rmz3tv4" data-native-element="true">הזמנות לקבוצות</a>
       </div>
     </div>
   </div>
